@@ -1,0 +1,700 @@
+@media(max-width: 767px)
+{
+	.sitelogo_imgdesign
+	{
+		width: 120px;
+	}
+	.header .menu > ul > li > a
+	{
+		color: #000;
+	}
+	.syour_textdesign
+	{
+		font-size: 15px;
+        line-height: 23px;
+	}
+	.firstmenu_imgarea
+	{
+		width: 100%;
+	}
+	.secondmenu_imgarea
+	{
+		width: 100%;
+	}
+	.leftbanner_outsection
+	{
+		margin: 40px 0px 0px 0px;
+	}
+	.bdtextdesign_section
+	{
+		font-size: 20px;
+	}
+	.buttons_ocbtnareaok
+	{
+		margin-top: 20px;
+	}
+	.cultchimg_outarea
+	{
+		bottom: 13%;
+        left: 52%;
+	}
+	.clutchimg_design
+	{
+		width: 100%;
+	}
+	.lpin_textdesign
+	{
+		padding: 15px 0px 0px 10px;
+	}
+	.rightbanner_outsection
+	{
+		margin: 0px 0px 0px 0px;
+	}
+	.rightbannner_upimgdesign
+	{
+		width: 58%;
+	    right: 13%;
+	    z-index: -1;
+	    top: 10px;
+	}
+	.aboutus_outsection
+	{
+		margin: -40px 0px 0px 0px;
+	}
+	.lefthdng_textdesign
+	{
+		padding: 0px 0px 0px 0px;
+		font-size: 27px;
+	}
+	.abtp_textdesign
+	{
+		font-size: 13px;
+		padding: 20px 15px 5px 0px;
+	}
+	.vdobox_sectionlogodesign
+	{
+		left: 10px;
+        width: 80px;
+	}
+	.wadabt_textdesign
+	{
+		font-size: 20px;
+		left: 10px;
+	}
+	.ourname_txtbld
+	{
+		font-size: 25px;
+	}
+	.pointbox_outarea
+	{
+		margin: 25px 0px 0px 0px;
+        padding: 0px 0px 10px 0px;
+	}
+	.pointbox_outarea1
+	{
+		margin: 25px 0px 0px 0px;
+        padding: 0px 0px 10px 0px;
+        border-right: 2px solid rgb(216, 230, 238);
+	}
+	.owprocess_textdesign
+	{
+		font-size: 30px;
+		padding: 10px 0px 0px 0px;
+	}
+	.boxhshape_imgoutarea img
+	{
+		width: 100%;
+	}
+	.ddfrnc_textdesign
+	{
+		font-size: 20px;
+	}
+	.dkbox_outsection
+	{
+		width: 100%;
+		margin: 20px 0px 20px 0px;
+	}
+	.fstltr_boldtextarea 
+	{
+		left: 12px;
+	}
+	.dkbox_outsection1
+	{
+		width: 100%;
+		margin: 20px 0px 20px 0px;
+	}
+	.acld_textdesign 
+	{
+		font-size: 15px;
+	}
+	.swdtext_design
+	{
+		font-size: 25px;
+	}
+	.innerservice_outsection
+	{
+		margin: 20px 0px 0px 0px;
+	}
+	.lwrbtn_design
+	{
+		width: 160px;
+        height: 50px;
+        font-size: 12px;
+        margin: 0px 0px 20px 0px;
+        float: left;
+	}
+	.sofitext_indesign
+	{
+		font-size: 20px;
+		padding: 0px 0px 20px 0px;
+	}
+	.oisfei_mainoutsection
+	{
+		margin: 30px 0px 0px 0px;
+	}
+	.wust_textdesign
+	{
+		font-size: 20px;
+		padding: 0px 0px 0px 0px;
+		text-align: center;
+	}
+	.mdsq_design
+	{
+		width: 20%;
+		height: 200px;
+	}
+	.weetx_edesign
+	{
+		width: 100%;
+		font-size: 13px;
+	}
+	.ogrec_textdesign
+	{
+		font-size: 25px;
+	}
+	.ogrec_textdesign
+	{
+		font-size: 30px;
+		padding: 0px 0px 15px 0px;
+	}
+	.ovcclnt_textdesign
+	{
+		font-size: 20px;
+		padding: 0px 0px 0px 0px;
+	}
+	.dfrnciconbox_outarea
+	{
+		width: 50px;
+		height: 50px;
+		left: 16px;
+        top: 14px;
+	}
+	.trustedclient_outsection
+	{
+		margin: 40px 0px 0px 0px;
+	}
+	.footer_mainoutsection
+	{
+		padding: 0px 10px 20px 10px;
+	}
+	.leftcontact_outgsection
+	{
+		margin: 20px 0px 0px 0px;
+	}
+	.cpyrgt_textdesign
+	{
+		text-align: center;
+	}
+	.outplcy_area li
+	{
+		padding: 0px 5px 0px 5px;
+	}
+	.outplcy_area li a
+	{
+		font-size: 11px;
+	}
+	.fstltr_bolftxt
+	{
+		font-size: 90px;
+	}
+	.abtnmbercnt_textdesign
+	{
+		font-size: 25px;
+		letter-spacing: 0px;
+	}
+	.servicemain_contentarea p
+	{
+		text-align: justify;
+	}
+	.slider_mainoutsection
+	{
+		height: 610px;
+		background-position: left;
+	}
+	.blob-btn
+	{
+		padding: 18px 50px;
+		font-size: 13px;
+	}
+	.footer_mainoutsection
+	{
+		margin: 20px 0px 20px 0px;
+	}
+	.documentmanagement_breadcumback
+	{
+		height: 250px;
+	}
+	.erpmanagement_breadcumback
+	{
+		height: 250px;
+	}
+	.cmsmmanagement_breadcumback
+	{
+		height: 250px;
+	}
+	.socialmediamarketing_breadcumback
+	{
+		height: 250px;
+	}
+	.androidappdevelopmemnt_breadcumsection
+	{
+		height: 250px;
+	}
+	.brochuredesign_breadcumsection
+	{
+		height: 250px;
+	}
+	.thedevantway_bckwardsection
+	{
+		height: 250px;
+	}
+	.corporate_sutanbreadcumoutarea
+	{
+		height: 250px;
+	}
+	.corporatescoial_breadcumback
+	{
+		height: 250px;
+	}
+	.leadership_breadcumback
+	{
+		height: 250px;
+	}
+	.customerstories_bcksection
+	{
+		height: 250px;
+	}
+	.careerout_loutbackground
+	{
+		height: 250px;
+	}
+	.careerdtlsout_loutbackground
+	{
+		height: 250px;
+	}
+	.associate_loutbackground
+	{
+		height: 250px;
+	}
+	.obreadcum_outsection1
+	{
+		height: 250px;
+	}
+	.obreadcum_outsection
+	{
+		height: 250px;
+	}
+	.aicloudsection_breadcumback
+	{
+		height: 250px;
+	}
+	.cybersecuritysection_breadcumback
+	{
+		height: 250px;
+	}
+	.futureofworksection_breadcumback
+	{
+		height: 250px;
+	}
+	.blockchainsection_breadcumback
+	{
+		height: 250px;
+	}
+	.webdevlopmentssection_breadcumback
+	{
+		height: 250px;
+	}
+	.webdevlopmentssection_breadcumback
+	{
+		height: 250px;
+	}
+	.privacycdcum_outsection
+	{
+		height: 250px;
+	}
+	.breadcumtext_outarea
+	{
+		margin: 140px 0px 0px 0px;
+	}
+	.connectus_outarea
+	{
+		font-size: 18px;
+	}
+	.breadcum_linktextarea li
+	{
+		font-size: 13px;
+	}
+	.documentmanagement_breadcumback::before
+	{
+		background-color: #00000054;
+	}
+	.umio_textdesign
+	{
+		font-size: 13px;
+	}
+	.docxtext_design 
+	{
+	   padding: 0px 0px 0px 0px;	
+	}
+	.cmsmanagement_outsection
+	{
+		margin: 30px 0px 30px 0px;
+	}
+	.srvcpge_hdngtextdesign
+	{
+		font-size: 20px;
+	}
+	.cmsetext_designcms
+	{
+		padding: 10px 10px 0px 10px;
+		font-size: 13px;
+	}
+	.projectshowcase_moutsection
+	{
+		margin: 0px 0px 0px 0px;
+	}
+	.lyupimg_design1
+	{
+		left: 0%;
+	}
+	figure.snip1206
+	{
+		margin: 0px 0px 20px 0px;
+	}
+	.srvcpge_hdngtextdesign1
+	{
+		font-size: 20px;
+	}
+	.cmsetext_designcms1
+	{
+		font-size: 13px;
+	}
+	.tdway_textdesign
+	{
+		font-size: 30px;
+	}
+	.tnts_textdesign
+	{
+		font-size: 13px;
+	}
+	.jnewmsvsn_outsection
+	{
+		padding: 20px 0px 0px 0px;
+	}
+	.pogpt_textdesign
+	{
+		font-size: 13px;
+	}
+	.msnabt_litextarea li span
+	{
+		font-size: 13px;
+	}
+	.abtilsimg_design
+	{
+		width: 100%;
+	}
+	.jnewmsvsn_outsectionrgt
+	{
+		padding: 30px 0px 30px 0px;
+	}
+	.crstbn_ltextdesign
+	{
+		font-size: 26px;
+	}
+	.rst_textdesignx
+	{
+		font-size: 13px;
+		padding: 10px 5px 0px 0px;
+	}
+	.crstbnutx_ltextdesign
+	{
+		font-size: 17px;
+        padding: 25px 0px 0px 0px;
+	}
+	.rst_textdesignxjkn
+	{
+		font-size: 13px;
+		padding: 10px 5px 0px 0px;
+	}
+	.member-info h3
+	{
+		font-size: 20px;
+	}
+	.member-info p
+	{
+		margin: 10px 0;
+		font-size: 13px;
+	}
+	.ocstext_design
+	{
+		font-size: 23px;
+	}
+	.timeline_posarea li .date
+	{
+		font-size: 18px;
+	}
+	.timeline_shdescrptntext
+	{
+		font-size: 12px;
+		padding: 17px 5px 0px 5px;
+	}
+	.efel_textdesign
+	{
+		font-size: 15px;
+	}
+	.efel_textdesign1
+	{
+		font-size: 13px;
+		line-height: 20px;
+	}
+	.klxc_jobfertextdesign
+	{
+		font-size: 25px;
+	}
+	.ymsg_fldarea
+	{
+		height: 160px !important;
+	}
+    .jexgap_areadesign
+    {
+    	padding: 10px 0px 10px 0px;
+    	font-size: 13px;
+    }
+    .oaestext_design
+    {
+    	font-size: 33px;
+    }
+    .wboutext_design
+    {
+    	padding: 10px 0px 20px 0px;
+    	font-size: 15px;
+    }
+    .cadb_textdesign
+    {
+    	font-size: 20px;
+    }
+    .blogsrchbtn_inpdesign
+    {
+    	right: 20px;
+    }
+    .blogdetails_outsectionx
+    {
+    	margin: 40px 0px 40px 0px;
+    }
+    .rightblogs_detailsoutsection
+    {
+    	margin: 20px 0px 0px 0px;
+    }
+    .leftindiamap_outarea
+    {
+    	height: 400px;
+    }
+    .canadamap_outsection
+    {
+    	height: 400px;
+    }
+    .toptiptxtds2
+    {
+    	width: 400px;
+    }
+    .pin1
+    {
+    	top: 35%;
+        left: 72%;
+    }
+    .pin4
+    {
+    	top: 155%;
+        left: 58%;
+    }
+    .ogloc_textcen
+    {
+    	font-size: 25px;
+    }
+	.cmsetext_designcmsacld
+	{
+		padding: 10px 10px 0px 10px;
+	}
+	.aiclod_scndimgdesign
+	{
+		bottom: -70%;
+		right: 4%;
+	}
+	.aicloud_rightoutsection
+	{
+		margin: 190px 0px 0px 0px;
+	}
+	.aiclod_downoutsection 
+	{
+		margin: 0px 0px 0px 0px;
+	}
+	.aiclod_downoutsection1
+	{
+		margin: 0px 0px 0px 0px;
+	}
+	.kdfn_ptexydesign
+	{
+		font-size: 13px;
+	}
+	.webdevarea_outsection
+	{
+		margin: 70px 0px 0px 0px;
+	}
+	.owap_textdesign
+	{
+		font-size: 17px;
+	}
+	.pcesectext_design
+	{
+		font-size: 15px;
+	}
+	.mainservice_cnthdngtextdesign
+	{
+		font-size: 14px;
+	}
+	.mainservice_ldptextdesign
+	{
+		font-size: 13px;
+	}
+	.mainservice_cnthdngtextdesign1
+	{
+		font-size: 14px;
+	}
+	.webdevs_downysection
+	{
+		margin: 20px 0px 70px 0px;
+	}
+	.mainservice_downcnthdngtextdesign
+	{
+		font-size: 14px;
+	}
+	.mainservice_ioptextdesign
+	{
+		font-size: 13px;
+	}
+	.tlent_kstextdesign
+	{
+		font-size: 20px;
+	}
+	.kts_msyptextdesign 
+	{
+        width: 100%;
+        font-size: 12px;
+        text-align: justify;
+        padding: 7px 15px 10px 15px;
+    }
+    .sky-tabs > label span span 
+    {
+        font-size: 13px;
+        padding: 0 20px;
+    }
+    .ikimg_tabdesign 
+    {
+        width: 23px;
+    }
+    .sky-tabs > label 
+    {
+        width: 48%;
+    }
+    .tabs_incomarea li 
+    {
+        height: 150px;
+        width: 48.2%;
+        margin: 0px 5px 20px 0px;
+    }
+    .codegirl_imgdesign 
+    {
+        display: none;
+    }
+    .tabs_incomarea
+    {
+    	margin-top: 10px;
+    }
+    .hdngfst_rightoutarea
+    {
+    	float: none;
+    }
+    .lwrbtn_design1
+    {
+    	width: 160px;
+        height: 50px;
+        font-size: 12px;
+        margin: 10px 0px 5px 0px;
+        float: left;
+    }
+    .laxc_textdesign
+    {
+    	width: 100%;
+    	font-size: 25px;
+    }
+    .witxy_ptextdesign
+    {
+    	width: 100%;
+    	font-size: 12px;
+    	text-align: justify;
+    }
+    .hboxfstright_outsection
+    {
+    	margin: 10px 0px 0px 0px;
+    }
+    .dcontact_otarea
+    {
+    	padding: 10px 10px 0px 10px;
+    }
+    .dcontact_otarea1
+    {
+    	padding: 10px 10px 0px 10px;
+    }
+    .dcontact_otarea li span
+    {
+    	font-size: 12px;
+    }
+    .dcontact_otarea1 li span
+    {
+    	font-size: 12px;
+    }
+    .gitotext_ctdfesign
+    {
+    	font-size: 30px;
+    }
+    .newsd_pbtbn
+    {
+    	right: 27px;
+    }
+    .pplcy_hdngtext
+    {
+    	font-size: 25px;
+    }
+    .pplcy_pgetedsxt
+    {
+    	font-size: 13px;
+    }
+    .pocus_area li
+    {
+    	padding: 10px 0px 0px 0px;
+    }
+    .pocus_area li span
+    {
+    	font-size: 13px;
+    }
+}
